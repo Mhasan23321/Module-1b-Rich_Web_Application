@@ -129,8 +129,9 @@ Module 1b Rich Web Application/
 
 ## 📤 Submission & Deployment Links
 
-- **GitHub Source Code Repository:** `https://github.com/def-ideas/jhub-module-1b-rich-web-app`
-- **Stackblitz Web Preview:** `https://stackblitz.com/github/def-ideas/jhub-module-1b-rich-web-app`
+- **GitHub Source Code Repository:** `https://github.com/Mhasan23321/jhub-module-1b-rich-web-app`
+- **Stackblitz Web Preview:** `https://stackblitz.com/github/Mhasan23321/jhub-module-1b-rich-web-app`
+
 
 ---
 *Developed for jHub Coding Scheme assessment.*
